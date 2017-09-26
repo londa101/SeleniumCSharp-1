@@ -1,5 +1,8 @@
-This is a Git Demo test file
 September 2017 Training Batch
 Selenium WebDriver with C#
 Taught by Tim Short
 Provided by TrainingRite
+www.trainingrite.com
+
+This is a Git Demo test file
+September 25, 2017
