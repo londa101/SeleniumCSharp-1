@@ -1,1 +1,4 @@
 This is a Git Demo test file
+This is more text in my file
+This is another line in my file
+This is my last line in the file
