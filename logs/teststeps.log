@@ -1,0 +1,180 @@
+2017-09-13 20:01:12,541 INFO LoginTest - Starting the test
+2017-09-13 20:01:19,050 INFO LoginTest - Executing test: tim@testemail.com and trpass
+2017-09-13 20:01:19,173 INFO LoginTest - Clicking login
+2017-09-13 20:01:20,457 INFO LoginTest - Asserting the test result
+2017-09-13 20:01:20,499 WARN LoginTest - We should see a confirmation
+2017-09-13 20:01:20,499 FATAL LoginTest - No page is displaying
+2017-09-13 20:01:20,567 INFO LoginTest - Starting the test
+2017-09-13 20:01:26,074 INFO LoginTest - Executing test: rw@testemail.com and rwpass
+2017-09-13 20:01:26,183 INFO LoginTest - Clicking login
+2017-09-13 20:01:27,106 INFO LoginTest - Asserting the test result
+2017-09-13 20:01:27,198 INFO LoginTest - Starting the test
+2017-09-13 20:01:32,408 INFO LoginTest - Executing test: jv@testemail.com and jvpass
+2017-09-13 20:01:32,527 INFO LoginTest - Clicking login
+2017-09-13 20:01:33,423 INFO LoginTest - Asserting the test result
+2017-09-13 20:01:33,500 INFO LoginTest - Starting the test
+2017-09-13 20:01:39,765 INFO LoginTest - Executing test: sm@testemail.com and smpass
+2017-09-13 20:01:39,866 INFO LoginTest - Clicking login
+2017-09-13 20:01:40,853 INFO LoginTest - Asserting the test result
+2017-09-13 20:01:40,888 WARN LoginTest - We should see a confirmation
+2017-09-13 20:01:40,888 FATAL LoginTest - No page is displaying
+2017-09-13 20:14:09,218 INFO LoginTest - Starting the test
+2017-09-13 20:14:15,932 INFO LoginTest - Executing test: tim@testemail.com and trpass
+2017-09-13 20:14:15,932 INFO LoginTest - Clicking login
+2017-09-13 20:14:15,932 INFO LoginTest - Asserting the test result
+2017-09-13 20:15:26,496 INFO LoginTest - Starting the test
+2017-09-13 20:15:26,506 INFO LoginTest - Executing test: tim@testemail.com and trpass
+2017-09-13 20:15:26,506 INFO LoginTest - Clicking login
+2017-09-13 20:15:26,506 INFO LoginTest - Asserting the test result
+2017-09-13 20:15:59,976 INFO LoginTest - Starting the test
+2017-09-13 20:15:59,985 INFO LoginTest - Executing test: tim@testemail.com and trpass
+2017-09-13 20:15:59,985 INFO LoginTest - Clicking login
+2017-09-13 20:15:59,985 INFO LoginTest - Asserting the test result
+2017-09-13 20:17:54,844 INFO LoginTest - Starting the test
+2017-09-13 20:17:54,853 INFO LoginTest - Executing test: tim@testemail.com and trpass
+2017-09-13 20:17:54,853 INFO LoginTest - Clicking login
+2017-09-13 20:17:54,853 INFO LoginTest - Asserting the test result
+2017-09-13 20:19:41,618 INFO LoginTest - Starting the test
+2017-09-13 20:19:41,627 INFO LoginTest - Executing test: tim@testemail.com and trpass
+2017-09-13 20:19:41,627 INFO LoginTest - Clicking login
+2017-09-13 20:19:41,627 INFO LoginTest - Asserting the test result
+2017-09-13 20:23:28,969 INFO LoginTest - Starting the test
+2017-09-13 20:23:28,978 INFO LoginTest - Executing test: tim@testemail.com and trpass
+2017-09-13 20:23:28,978 INFO LoginTest - Clicking login
+2017-09-13 20:23:28,978 INFO LoginTest - Asserting the test result
+2017-09-13 20:27:22,968 INFO LoginTest - Starting the test
+2017-09-13 20:27:29,516 INFO LoginTest - Executing test: tim@testemail.com and trpass
+2017-09-13 20:27:29,633 INFO LoginTest - Clicking login
+2017-09-13 20:27:30,972 INFO LoginTest - Asserting the test result
+2017-09-13 20:27:31,013 INFO LoginTest - Executing test: rw@testemail.com and rwpass
+2017-09-13 20:39:37,441 INFO LoginTest - Starting the test
+2017-09-13 20:39:43,135 INFO LoginTest - Executing test: tim@testemail.com and trpass
+2017-09-13 20:39:43,265 INFO LoginTest - Clicking login
+2017-09-13 20:39:44,313 INFO LoginTest - Asserting the test result
+2017-09-13 20:39:44,358 INFO LoginTest - Executing test: rw@testemail.com and rwpass
+2017-09-13 20:41:15,243 INFO DDTwithForEach - Starting the test
+2017-09-13 20:41:15,252 INFO DDTwithForEach - Executing test: tim@testemail.com and trpass
+2017-09-13 20:41:15,252 INFO DDTwithForEach - Clicking login
+2017-09-13 20:41:15,252 INFO DDTwithForEach - Asserting the test result
+2017-09-13 20:41:15,252 INFO DDTwithForEach - Executing test: rw@testemail.com and rwpass
+2017-09-13 20:41:15,252 INFO DDTwithForEach - Clicking login
+2017-09-13 20:41:15,252 INFO DDTwithForEach - Asserting the test result
+2017-09-13 20:41:15,252 INFO DDTwithForEach - Executing test: jv@testemail.com and jvpass
+2017-09-13 20:41:15,252 INFO DDTwithForEach - Clicking login
+2017-09-13 20:41:15,252 INFO DDTwithForEach - Asserting the test result
+2017-09-13 20:41:15,252 INFO DDTwithForEach - Executing test: sm@testemail.com and smpass
+2017-09-13 20:41:15,252 INFO DDTwithForEach - Clicking login
+2017-09-13 20:41:15,252 INFO DDTwithForEach - Asserting the test result
+2017-09-13 20:47:41,688 INFO DDTwithForEach - Starting the test
+2017-09-13 20:47:41,696 INFO DDTwithForEach - Executing test: tim@testemail.com and trpass
+2017-09-13 20:47:41,696 INFO DDTwithForEach - Clicking login
+2017-09-13 20:47:41,696 INFO DDTwithForEach - Asserting the test result
+2017-09-13 20:47:41,700 INFO DDTwithForEach - Starting the test
+2017-09-13 20:47:41,700 INFO DDTwithForEach - Executing test: rw@testemail.com and rwpass
+2017-09-13 20:47:41,700 INFO DDTwithForEach - Clicking login
+2017-09-13 20:47:41,700 INFO DDTwithForEach - Asserting the test result
+2017-09-13 20:47:41,700 INFO DDTwithForEach - Starting the test
+2017-09-13 20:47:41,701 INFO DDTwithForEach - Executing test: jv@testemail.com and jvpass
+2017-09-13 20:47:41,701 INFO DDTwithForEach - Clicking login
+2017-09-13 20:47:41,701 INFO DDTwithForEach - Asserting the test result
+2017-09-13 20:47:41,701 INFO DDTwithForEach - Starting the test
+2017-09-13 20:47:41,701 INFO DDTwithForEach - Executing test: sm@testemail.com and smpass
+2017-09-13 20:47:41,701 INFO DDTwithForEach - Clicking login
+2017-09-13 20:47:41,701 INFO DDTwithForEach - Asserting the test result
+2017-09-13 20:47:41,701 INFO DDTwithForEach - Starting the test
+2017-09-13 20:47:41,701 INFO DDTwithForEach - Executing test: hr@testemail.com and hrpass
+2017-09-13 20:47:41,701 INFO DDTwithForEach - Clicking login
+2017-09-13 20:47:41,701 INFO DDTwithForEach - Asserting the test result
+2017-09-13 20:48:37,224 INFO DDTwithDataProvider - Starting the test
+2017-09-13 20:48:37,233 INFO DDTwithDataProvider - Executing test: tim@testemail.com and trpass
+2017-09-13 20:48:37,233 INFO DDTwithDataProvider - Clicking login
+2017-09-13 20:48:37,233 INFO DDTwithDataProvider - Asserting the test result
+2017-09-13 20:48:37,237 INFO DDTwithDataProvider - Starting the test
+2017-09-13 20:48:37,237 INFO DDTwithDataProvider - Executing test: rw@testemail.com and rwpass
+2017-09-13 20:48:37,237 INFO DDTwithDataProvider - Clicking login
+2017-09-13 20:48:37,237 INFO DDTwithDataProvider - Asserting the test result
+2017-09-13 20:48:37,237 INFO DDTwithDataProvider - Starting the test
+2017-09-13 20:48:37,237 INFO DDTwithDataProvider - Executing test: jv@testemail.com and jvpass
+2017-09-13 20:48:37,237 INFO DDTwithDataProvider - Clicking login
+2017-09-13 20:48:37,237 INFO DDTwithDataProvider - Asserting the test result
+2017-09-13 20:48:37,237 INFO DDTwithDataProvider - Starting the test
+2017-09-13 20:48:37,237 INFO DDTwithDataProvider - Executing test: sm@testemail.com and smpass
+2017-09-13 20:48:37,237 INFO DDTwithDataProvider - Clicking login
+2017-09-13 20:48:37,237 INFO DDTwithDataProvider - Asserting the test result
+2017-09-13 20:48:37,238 INFO DDTwithDataProvider - Starting the test
+2017-09-13 20:48:37,238 INFO DDTwithDataProvider - Executing test: hr@testemail.com and hrpass
+2017-09-13 20:48:37,238 INFO DDTwithDataProvider - Clicking login
+2017-09-13 20:48:37,238 INFO DDTwithDataProvider - Asserting the test result
+2017-09-13 20:49:48,314 INFO DDTwithDataProvider - Starting the test
+2017-09-13 20:49:54,003 INFO DDTwithDataProvider - Executing test: tim@testemail.com and trpass
+2017-09-13 20:49:54,127 INFO DDTwithDataProvider - Clicking login
+2017-09-13 20:49:55,290 INFO DDTwithDataProvider - Asserting the test result
+2017-09-13 20:49:55,410 INFO DDTwithDataProvider - Starting the test
+2017-09-13 20:50:01,024 INFO DDTwithDataProvider - Executing test: rw@testemail.com and rwpass
+2017-09-13 20:50:01,139 INFO DDTwithDataProvider - Clicking login
+2017-09-13 20:50:02,143 INFO DDTwithDataProvider - Asserting the test result
+2017-09-13 20:50:02,230 INFO DDTwithDataProvider - Starting the test
+2017-09-13 20:50:08,154 INFO DDTwithDataProvider - Executing test: jv@testemail.com and jvpass
+2017-09-13 20:50:08,285 INFO DDTwithDataProvider - Clicking login
+2017-09-13 20:50:09,411 INFO DDTwithDataProvider - Asserting the test result
+2017-09-13 20:50:09,477 INFO DDTwithDataProvider - Starting the test
+2017-09-13 20:50:14,805 INFO DDTwithDataProvider - Executing test: sm@testemail.com and smpass
+2017-09-13 20:50:14,923 INFO DDTwithDataProvider - Clicking login
+2017-09-13 20:50:16,087 INFO DDTwithDataProvider - Asserting the test result
+2017-09-13 20:50:16,182 INFO DDTwithDataProvider - Starting the test
+2017-09-13 20:50:22,889 INFO DDTwithDataProvider - Executing test: hr@testemail.com and hrpass
+2017-09-13 20:50:23,012 INFO DDTwithDataProvider - Clicking login
+2017-09-13 20:50:24,126 INFO DDTwithDataProvider - Asserting the test result
+2017-09-13 20:53:58,249 INFO DDTwithDataProvider - Starting the test
+2017-09-13 20:54:04,030 INFO DDTwithDataProvider - Executing test: tim@testemail.com and trpass
+2017-09-13 20:54:04,191 INFO DDTwithDataProvider - Clicking login
+2017-09-13 20:54:05,239 INFO DDTwithDataProvider - Asserting the test result
+2017-09-13 20:54:05,349 INFO DDTwithDataProvider - Starting the test
+2017-09-13 20:54:10,674 INFO DDTwithDataProvider - Executing test: rw@testemail.com and rwpass
+2017-09-13 20:54:10,783 INFO DDTwithDataProvider - Clicking login
+2017-09-13 20:54:11,629 INFO DDTwithDataProvider - Asserting the test result
+2017-09-13 20:54:11,734 INFO DDTwithDataProvider - Starting the test
+2017-09-13 20:54:17,473 INFO DDTwithDataProvider - Executing test: jv@testemail.com and jvpass
+2017-09-13 20:54:17,610 INFO DDTwithDataProvider - Clicking login
+2017-09-13 20:54:18,647 INFO DDTwithDataProvider - Asserting the test result
+2017-09-13 20:54:18,725 INFO DDTwithDataProvider - Starting the test
+2017-09-13 20:54:24,029 INFO DDTwithDataProvider - Executing test: hr@testemail.com and hrpass
+2017-09-13 20:54:24,150 INFO DDTwithDataProvider - Clicking login
+2017-09-13 20:54:25,241 INFO DDTwithDataProvider - Asserting the test result
+2017-09-13 20:54:25,311 INFO DDTwithDataProvider - Starting the test
+2017-09-13 20:54:30,643 INFO DDTwithDataProvider - Executing test: dh@testemail.com and dhpass
+2017-09-13 20:54:30,773 INFO DDTwithDataProvider - Clicking login
+2017-09-13 20:54:31,785 INFO DDTwithDataProvider - Asserting the test result
+2017-09-18 14:27:40,616 INFO ReadingExcel - Starting the test
+2017-09-18 14:27:40,708 INFO ReadingExcel - Executing test: tim@testemail.com and trpass
+2017-09-18 14:27:40,708 INFO ReadingExcel - Executing test: rw@testemail.com and rwpass
+2017-09-18 14:27:40,708 INFO ReadingExcel - Executing test: jv@testemail.com and jvpass
+2017-09-18 14:27:40,708 INFO ReadingExcel - Executing test: hr@testemail.com and hrpass
+2017-09-18 14:27:40,708 INFO ReadingExcel - Executing test: dh@testemail.com and dhpass
+2017-09-18 20:09:34,673 INFO ReadingExcel - Starting the test
+2017-09-18 20:09:34,690 INFO ReadingExcel - Starting the test
+2017-09-18 20:09:34,690 INFO ReadingExcel - Starting the test
+2017-09-18 20:09:34,690 INFO ReadingExcel - Starting the test
+2017-09-18 20:09:34,690 INFO ReadingExcel - Starting the test
+2017-09-18 20:30:51,835 INFO ReadingExcel - Starting the test
+2017-09-18 20:32:37,022 INFO ReadingExcel - Starting the test
+2017-09-18 20:43:40,705 INFO ReadingExcel - Starting the test
+2017-09-18 20:50:13,043 INFO ReadingExcel - Starting the test
+2017-09-18 20:50:13,055 INFO ReadingExcel - Starting the test
+2017-09-18 20:50:13,055 INFO ReadingExcel - Starting the test
+2017-09-18 20:50:13,055 INFO ReadingExcel - Starting the test
+2017-09-18 21:10:00,481 INFO ReadingExcel - Starting the test
+2017-09-18 21:10:00,492 INFO ReadingExcel - Starting the test
+2017-09-18 21:10:00,493 INFO ReadingExcel - Starting the test
+2017-09-18 21:10:00,493 INFO ReadingExcel - Starting the test
+2017-09-18 21:10:00,493 INFO ReadingExcel - Starting the test
+2017-09-18 21:26:46,820 INFO LoginTestwithExcel - Starting test
+2017-09-18 21:26:46,829 INFO LoginTestwithExcel - Testing: tim@testemail.com trpass
+2017-09-18 21:26:51,937 INFO LoginTestwithExcel - Starting test
+2017-09-18 21:26:51,937 INFO LoginTestwithExcel - Testing: rw@testemail.com rwpass
+2017-09-18 21:26:56,871 INFO LoginTestwithExcel - Starting test
+2017-09-18 21:26:56,871 INFO LoginTestwithExcel - Testing: jv@testemail.com jvpass
+2017-09-18 21:27:01,732 INFO LoginTestwithExcel - Starting test
+2017-09-18 21:27:01,732 INFO LoginTestwithExcel - Testing: hr@testemail.com hrpass
+2017-09-18 21:27:06,585 INFO LoginTestwithExcel - Starting test
+2017-09-18 21:27:06,586 INFO LoginTestwithExcel - Testing: dh@testemail.com dhpass
