@@ -1,4 +1,5 @@
 This is a Git Demo test file
-This is more text in my file
-This is another line in my file
-This is my last line in the file
+September 2017 Training Batch
+Selenium WebDriver with C#
+Taught by Tim Short
+Provided by TrainingRite
