@@ -13,5 +13,10 @@ namespace SeleniumWorks.pages
         {
             driver.FindElement(By.XPath("html/body/font/table[1]/tbody/tr[1]/td[3]/a/img")).Click();
         }
+
+        public static String getProducts(IWebDriver driver)
+        {
+            return driver.FindElement(By.XPath("/html/body/font/table[1]")).Text;
+        }
     }
 }

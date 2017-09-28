@@ -13,5 +13,10 @@ namespace SeleniumWorks.pages
         {
             driver.FindElement(By.CssSelector("input[name='cmdSubmit'][value='Proceed to Checkout']")).Click();
         }
+
+        public static String getCartData(IWebDriver driver)
+        {
+            return driver.FindElement(By.XPath("/html/body/font/form/table")).Text;
+        }
     }
 }
